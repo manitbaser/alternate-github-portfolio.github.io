@@ -776,12 +776,12 @@
 				}
 
 				ul.icons li a:before {
-					color: grayscale;
+					color: gray;
 					/* text-shadow: 1.25px 0px 0px #02fce7, -1.25px 0px 0px #02fce7, 0px 1.25px 0px #02fce7, 0px -1.25px 0px #02fce7; */
 				}
 
 				ul.icons li a:hover:before {
-					/* color: #02fce7; */
+					color: black;
 					text-shadow: 1.25px 0px 0px #02fce7, -1.25px 0px 0px #02fce7, 0px 1.25px 0px #02fce7, 0px -1.25px 0px #02fce7;
 				}
 
